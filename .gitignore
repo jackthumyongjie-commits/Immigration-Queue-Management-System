@@ -1,0 +1,11 @@
+# Local / production secrets — keep out of Git
+config/database.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Uploaded user files (keep folder structure)
+uploads/applications/*
+!uploads/applications/index.php
