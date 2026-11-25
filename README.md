@@ -149,4 +149,4 @@ Ticket created → Waiting → Call Next → Start Serving → Complete/Skip
 
 ## License
 
-For academic / demonstration use unless otherwise stated.
+This project is licensed under the [MIT License](LICENSE).
